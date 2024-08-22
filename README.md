@@ -27,16 +27,15 @@ Ce dataset contient un million de cellules et est stocké au format H5AD. Il com
 
 L'interface de l'application a été développée pour faciliter l'analyse des données scRNA-seq en utilisant les outils suivants :
 
-- **Scanpy (CPU) :** 1.10.2
-- **rapids-singlecell (GPU) :** 0.10.6
-- **cuML (GPU) :** 24.06.01
-- **Dash (Interface) :** 2.17.1
-- **Plotly (Visualisation) :** 5.22.0
-- **Scikit-learn (Analyse) :** 1.5.1
-- **Pandas (Analyse) :** 2.2.2
-- **CuPy (GPU) :** 13.2.0
-- **Anndata (Manipulation de Données) :** 0.10.6
-- **scGPT (Annotation Automatique) :** 0.2.1
+- **Scanpy :** 1.10.2
+- **rapids-singlecell :** 0.10.6
+- **cuML :** 24.06.01
+- **Dash :** 2.17.1
+- **Plotly :** 5.22.0
+- **Scikit-learn  :** 1.5.1
+- **Pandas  :** 2.2.2
+- **CuPy :** 13.2.0
+- **Anndata  :** 0.10.6
 
 - ## Formats de Fichiers Supportés
 
