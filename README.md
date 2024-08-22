@@ -52,6 +52,7 @@ Pour lancer l'application avec un fichier de données spécifique et une taille 
 
 ```bash
 python App.py --file_path /chemin/vers/votre_fichier/ --subset_size 200000
+```
 
 ## Annotation Automatique
 
