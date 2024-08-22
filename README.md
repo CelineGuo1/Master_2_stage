@@ -20,7 +20,7 @@ Nous avons utilisé Python version 3.11.9 et installé RAPIDS version 24.06 pour
 Le jeu de données utilisé pour cette étude provient de cellules cérébrales de souris, séquencées par la méthode 10X Genomics. Les données sont disponibles publiquement à l'adresse suivante :
 
 - **[Dataset 10X Genomics - 1M cellules cérébrales de souris](https://rapids-single-cell-examples.s3.us-east-2.amazonaws.com/1M_brain_cells_10X.sparse.h5ad)**
-Ce dataset contient un million de cellules et est stocké au format H5AD. Il comprend des profils d'expression génique et des métadonnées associées. Pour évaluer les performances du traitement sur CPU et GPU, des sous-ensembles de tailles variées, allant de 10 000 à 500 000 cellules, ont été extraits.
+ Pour évaluer les performances du traitement sur CPU et GPU, des sous-ensembles de tailles variées, allant de 10 000 à 500 000 cellules, ont été extraits.
 
 
 ## Développement de l'Interface
