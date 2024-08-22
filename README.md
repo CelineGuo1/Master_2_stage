@@ -56,7 +56,11 @@ python App.py --file_path /chemin/vers/votre_fichier/ --subset_size 200000
 
 ## Annotation Automatique
 
-Pour l'annotation automatique des données de cellule unique, nous avons intégré **scGPT** (version 0.2.1), un modèle d'apprentissage profond adapté pour automatiser l'annotation des cellules.
+Pour l'annotation automatique des données de cellule unique, nous avons intégré **scGPT** (version 0.2.1), un modèle d'apprentissage profond adapté pour automatiser l'annotation des cellules. Pour cette étude, nous avons testé le modèle sur le jeu de données **"3K PBMC"** de 10X Genomics, disponible publiquement à l'adresse suivante :
+
+- **[3K PBMC Dataset](http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)**
+
+
 
 
 
