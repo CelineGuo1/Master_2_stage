@@ -37,11 +37,26 @@ L'interface de l'application a été développée pour faciliter l'analyse des d
 - **CuPy (GPU) :** 13.2.0
 - **Anndata (Manipulation de Données) :** 0.10.6
 - **scGPT (Annotation Automatique) :** 0.2.1
+
+- ## Formats de Fichiers Supportés
+
+L'application prend en charge les formats de fichiers suivants :
+
+- **Fichiers MTX (10x Genomics)** 
+- **Fichiers H5AD** 
+- **Fichiers H5**
+- 
 ### Lancer l'Application
 
 Pour lancer l'application avec un fichier de données spécifique et une taille de sous-ensemble, utilisez la commande suivante :
 
 ```bash
 python App.py --file_path /chemin/vers/votre_fichier/ --subset_size 200000
+
+## Annotation Automatique
+
+Pour l'annotation automatique des données de cellule unique, nous avons intégré **scGPT** (version 0.2.1), un modèle d'apprentissage profond adapté pour automatiser l'annotation des cellules.
+
+
 
 
