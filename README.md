@@ -44,7 +44,7 @@ L'application prend en charge les formats de fichiers suivants :
 - **Fichiers MTX (10x Genomics)** 
 - **Fichiers H5AD** 
 - **Fichiers H5**
-- 
+  
 ### Lancer l'Application
 
 Pour lancer l'application avec un fichier de données spécifique et une taille de sous-ensemble, utilisez la commande suivante :
